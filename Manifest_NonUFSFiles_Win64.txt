@@ -3,7 +3,7 @@ Engine/Binaries/Win64/tbb.dll	2024-01-13T22:24:52.726Z
 Engine/Binaries/Win64/tbbmalloc.dll	2024-01-13T22:24:52.818Z
 PuzzleGame/Binaries/Win64/D3D12/D3D12Core.dll	2024-01-13T22:24:21.152Z
 PuzzleGame/Binaries/Win64/OpenImageDenoise.dll	2024-01-13T22:40:44.033Z
-PuzzleGame/Binaries/Win64/PuzzleGame-Win64-Shipping.exe	2024-01-17T18:24:49.967Z
+PuzzleGame/Binaries/Win64/PuzzleGame-Win64-Shipping.exe	2024-01-17T19:00:02.871Z
 PuzzleGame/Binaries/Win64/tbb.dll	2024-01-13T22:24:10.057Z
 PuzzleGame/Binaries/Win64/tbb12.dll	2024-01-13T22:40:41.949Z
 PuzzleGame/Binaries/Win64/tbbmalloc.dll	2024-01-13T22:24:10.060Z
@@ -17,4 +17,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-01-13T2
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-01-13T22:24:41.759Z
 Engine/Content/Slate/Cursor/invisible.cur	2024-01-13T22:26:18.600Z
 PuzzleGame/Content/Movies/EndGame.mp4	2024-01-05T15:46:44.699Z
-PuzzleGame.exe	2024-01-17T18:45:49.626Z
+PuzzleGame.exe	2024-01-17T19:00:21.824Z
